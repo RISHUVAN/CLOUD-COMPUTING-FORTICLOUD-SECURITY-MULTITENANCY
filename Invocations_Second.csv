@@ -1,0 +1,8 @@
+TimeSeries ID,function/execution_count.cloud_function.ALIGN_RATE.REDUCE_SUM.metric.type="cloudfunctions.googleapis.com/function/execution_count"
+            AND resource.type="cloud_function" AND resource.labels."function_name"="cloud-computing-ris" AND resource.labels."project_id"="cloud-rishuvan" AND resource.labels."region"="asia-south1".project_id:cloud-rishuvan.status:crash
+status,crash
+project_id,cloud-rishuvan
+Wed May 22 2024 23:45:00 GMT+0530 (India Standard Time),0.0033333333333333335
+Wed May 22 2024 23:50:00 GMT+0530 (India Standard Time),0
+Thu May 23 2024 00:35:00 GMT+0530 (India Standard Time),0.0033333333333333335
+Thu May 23 2024 00:40:00 GMT+0530 (India Standard Time),0

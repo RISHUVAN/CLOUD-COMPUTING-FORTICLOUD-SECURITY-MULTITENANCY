@@ -1,0 +1,9 @@
+TimeSeries ID,request_count.cloud_run_revision.ALIGN_RATE.REDUCE_SUM.metric.type="run.googleapis.com/request_count" resource.type="cloud_run_revision" AND resource.labels."location"="asia-south1" AND resource.labels."project_id"="cloud-rishuvan" AND resource.labels."service_name"="cloud-computing-ris".60s.project_id:cloud-rishuvan.response_code_class:5xx
+response_code_class,5xx
+project_id,cloud-rishuvan
+Wed May 22 2024 23:45:00 GMT+0530 (India Standard Time),0.0033333333333333335
+Wed May 22 2024 23:50:00 GMT+0530 (India Standard Time),0
+Thu May 23 2024 00:35:00 GMT+0530 (India Standard Time),0.0033333333333333335
+Thu May 23 2024 00:40:00 GMT+0530 (India Standard Time),0
+Thu May 23 2024 11:15:00 GMT+0530 (India Standard Time),0.0033333333333333335
+Thu May 23 2024 11:20:00 GMT+0530 (India Standard Time),0

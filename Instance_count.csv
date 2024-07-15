@@ -1,0 +1,9 @@
+TimeSeries ID,function/instance_count.cloud_function.ALIGN_MAX.REDUCE_SUM.metric.type="cloudfunctions.googleapis.com/function/instance_count"
+            AND resource.type="cloud_function" AND resource.labels."function_name"="cloud-computing-ris" AND resource.labels."project_id"="cloud-rishuvan" AND resource.labels."region"="asia-south1".project_id:cloud-rishuvan.state:active,function/instance_count.cloud_function.ALIGN_MAX.REDUCE_SUM.metric.type="cloudfunctions.googleapis.com/function/instance_count"
+            AND resource.type="cloud_function" AND resource.labels."function_name"="cloud-computing-ris" AND resource.labels."project_id"="cloud-rishuvan" AND resource.labels."region"="asia-south1".project_id:cloud-rishuvan.state:idle
+state,active,idle
+project_id,cloud-rishuvan,cloud-rishuvan
+Wed May 22 2024 23:45:00 GMT+0530 (India Standard Time),0,0
+Wed May 22 2024 23:50:00 GMT+0530 (India Standard Time),0,0
+Thu May 23 2024 00:35:00 GMT+0530 (India Standard Time),0,0
+Thu May 23 2024 00:40:00 GMT+0530 (India Standard Time),0,0
